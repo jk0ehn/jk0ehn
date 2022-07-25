@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-## about
+## About
 
-New in Hamburg
+Im new in Hamburg.  
+On my way to learn coding.
 
 
 ![Grafik](https://cdn.pixabay.com/photo/2018/02/07/09/47/travel-3136679_1280.jpg)
