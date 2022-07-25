@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 ## About
 
-Im new in Hamburg.  
-On my way to learn coding.
+Im new in Hamburg, on my way to learn coding.
 
 
 ![Grafik](https://cdn.pixabay.com/photo/2018/02/07/09/47/travel-3136679_1280.jpg)  
