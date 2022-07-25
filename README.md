@@ -1,4 +1,4 @@
-# Hi folks, welcome to my page! Nice to meet you ✌🏻
+# Hey folks, welcome to my page! Nice to meet you ✌🏻
 
 <!--
 **jk0ehn/jk0ehn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-##about
+## about
 
+[(https://cdn.pixabay.com/photo/2018/02/07/09/47/travel-3136679_1280.jpg)]
 
