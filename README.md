@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## About
 
-New in Hamburg
+New in Hamburg  
 Learn coding
 
 
