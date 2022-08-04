@@ -18,15 +18,11 @@ Here are some ideas to get you started:
 
 ## About
 
-Im new in Hamburg, on my way to learn coding.
+New in Hamburg
+Learn coding
 
 
 ![Grafik](https://cdn.pixabay.com/photo/2018/02/07/09/47/travel-3136679_1280.jpg)  
-  
-1. First item
-2. Second item
-3. Third item
-4. Fourth item
 
 
 
