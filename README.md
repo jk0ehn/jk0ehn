@@ -1,5 +1,4 @@
-# Hey folks -  Welcome to my page! Nice to meet you ✌🏻
-
+<iframe src="https://giphy.com/embed/eCqFYAVjjDksg" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funny-meme-hacker-eCqFYAVjjDksg">via GIPHY</a></p>
 <!--
 **jk0ehn/jk0ehn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,13 +15,8 @@ Here are some ideas to get you started:
 -->
 
 
-## About
-
-New in Hamburg  
-Learn coding
 
 
-![Grafik](https://cdn.pixabay.com/photo/2018/02/07/09/47/travel-3136679_1280.jpg)  
 
 
 
